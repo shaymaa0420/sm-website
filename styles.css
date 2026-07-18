@@ -1,0 +1,15 @@
+.panel{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(136, 250, 201);
+}
+.intro{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(255, 187, 229);
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+}
